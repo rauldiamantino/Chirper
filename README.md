@@ -1,16 +1,17 @@
 # Chirper - Laravel Bootcamp
 
-### Description
+## Description
 My first project with the Laravel Framework ;)
 
 In this moment i don't know all possibilities about this framework, but i believe that this is a important step in my experiences.
+
 I also take this opportunity to praticy my english in this description, and with minimal translate.
+<br>Was a little bit hard follows all steps of the bootcamp documentation for is in english, however its been ok!
 
-Was a little bit hard follows all steps of the bootcamp documentation for is in english, but its been right!
+In this application is possible add a new post, edit or delete a existent post of the same user.
+<br>Also the user receives notifications in your email when other user create a new publication.
 
----
-
-### Servers
+## Servers
 **Backend - Artisan**
 ```
 php artisan serve
@@ -27,9 +28,7 @@ cd mailpit;
 ./mailpit;
 ```
 
----
-
-### Views
+## Views
 **Application**
 ```
 http://localhost:8000
@@ -44,6 +43,3 @@ http://localhost:8025
 ```
 
 ![image](https://github.com/rauldiamantino/Chirper/assets/100098231/cecade6a-7b50-49cb-ae93-3c1a472a1a31)
-
-
----
